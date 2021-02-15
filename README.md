@@ -13,4 +13,4 @@ in this game no intermediate rewards is given. only a final reward is given when
 pull requests for further improvement is invited
 
 # Link to other OpenAI GYM Environments
-<a href ='https://github.com/adibyte95/CartPole-OpenAI-GYM'>cartpole</a>
+<a href ='https://github.com/Akashdu/cartpole_game_using_openai_gym'>cartpole</a>
